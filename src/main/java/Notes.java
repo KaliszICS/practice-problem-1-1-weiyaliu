@@ -9,7 +9,7 @@ class Notes {
 		// every line of code in java must end in a ;
 		// Coding is case sensetive. 
 		
-		System.out.println("Hi Everybody");
+		System.out.println("System.out.println()");
 		//Whatever you want to output goes inside the brackets
 
 		System.out.println(" Hi Everybody");
